@@ -1,0 +1,9 @@
+C:\Roopa\LivePerson\AutomationTest\Test\bin\Debug\Test.exe.config
+C:\Roopa\LivePerson\AutomationTest\Test\bin\Debug\Test.exe
+C:\Roopa\LivePerson\AutomationTest\Test\bin\Debug\Test.pdb
+C:\Roopa\LivePerson\AutomationTest\Test\bin\Debug\WebDriver.dll
+C:\Roopa\LivePerson\AutomationTest\Test\bin\Debug\WebDriver.xml
+C:\Roopa\LivePerson\AutomationTest\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Roopa\LivePerson\AutomationTest\Test\obj\Debug\Test.exe
+C:\Roopa\LivePerson\AutomationTest\Test\obj\Debug\Test.pdb
+C:\Roopa\LivePerson\AutomationTest\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
